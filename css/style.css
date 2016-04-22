@@ -4,8 +4,26 @@ hr{
 button{
   background-color: green;
   color: white;
+  float: right;
 }
 
-#imageAlign{
-  align-content: center;
+h3{
+font-family: 'Yellowtail', cursive;
+}
+
+.marginBottom{
+  margin-bottom: 1rem;
+}
+
+.alignCenter{
+  text-align: center;
+}
+
+#bgImage{
+  background-image: url("../images/list-bg.png");
+  padding: 40px;
+}
+
+ul{
+  list-style: none;
 }
