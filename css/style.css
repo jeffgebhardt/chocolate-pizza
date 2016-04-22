@@ -27,3 +27,7 @@ font-family: 'Yellowtail', cursive;
 ul{
   list-style: none;
 }
+
+.centerImage{
+  align-content: center;
+}
