@@ -1,0 +1,11 @@
+hr{
+  border: 5px solid grey;
+}
+button{
+  background-color: green;
+  color: white;
+}
+
+#imageAlign{
+  align-content: center;
+}
